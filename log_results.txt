@@ -1,0 +1,618 @@
+----------------------------------------
+Input video: input_vids/corrected_sit_stand.mp4
+Output video: output_vids/mediapipe\corrected_sit_stand.mp4
+Input frames: 3688
+Processed frames: 3687
+Total landmarks: 121671
+Total visibility: 96059.97421702277
+Average landmarks per frame: 33.0
+Average visibility per frame: 26.053695203966033
+Average visibility per landmark: 0.789505915271698
+----------------------------------------
+Input video: input_vids/sit_stand.mp4
+Output video: output_vids/mediapipe\sit_stand.mp4
+Input frames: 3688
+Processed frames: 3687
+Total landmarks: 121671
+Total visibility: 95184.3493873449
+Average landmarks per frame: 33.0
+Average visibility per frame: 25.816205421031977
+Average visibility per landmark: 0.7823092551827873
+----------------------------------------
+Input video: input_vids/corrected_sit_stand.mp4
+Output video: output_vids/yolo/pose\corrected_sit_stand.mp4
+Input frames: 3688
+Processed frames: 3688
+Total persons: 14630
+Total landmarks: 124355
+Total confidence: 87192.96875
+Total confidence per landmark: {'nose': 6396.452250452479, 'left_eye': 4401.302194008138, 'right_eye': 4553.758563024807, 'left_ear': 2526.2902935472666, 'right_ear': 3670.6431701460315, 'left_shoulder': 5462.966890772339, 'right_shoulder': 5793.693615183234, 'left_elbow': 3888.6873069982976, 'right_elbow': 5932.734457746148, 'left_wrist': 4584.3328726403415, 'right_wrist': 6473.048069268465, 'left_hip': 5501.083389889449, 'right_hip': 5705.392945599742, 'left_knee': 5761.394175261725, 'right_knee': 5849.889370018616, 'left_ankle': 5228.77317199239, 'right_ankle': 5462.539073230233}
+Average landmarks per frame: 33.71881778741866
+Average confidence per frame: 23.642345428466797
+Average confidence per landmark: {'nose': 0.4372147813022884, 'left_eye': 0.30084088817553917, 'right_eye': 0.311261692619604, 'left_ear': 0.1726787623750695, 'right_ear': 0.2508983711651423, 'left_shoulder': 0.37340853662148593, 'right_shoulder': 0.3960146011745205, 'left_elbow': 0.2658022766232603, 'right_elbow': 0.4055184181644667, 'left_wrist': 0.31335152923037196, 'right_wrist': 0.4424503123218363, 'left_hip': 0.3760139022480826, 'right_hip': 0.3899790120027165, 'left_knee': 0.39380684724960524, 'right_knee': 0.39985573274221575, 'left_ankle': 0.3574007636358435, 'right_ankle': 0.37337929413740484}
+----------------------------------------
+Input video: input_vids/sit_stand.mp4
+Output video: output_vids/yolo/pose\sit_stand.mp4
+Input frames: 3688
+Processed frames: 3688
+Total persons: 14860
+Total landmarks: 126310
+Total confidence: 88597.3203125
+Total confidence per landmark: {'nose': 6479.626661121845, 'left_eye': 4567.684775553644, 'right_eye': 4585.705290080921, 'left_ear': 2516.3611458562664, 'right_ear': 3680.9273641709806, 'left_shoulder': 5472.40386365389, 'right_shoulder': 5778.881416787161, 'left_elbow': 3998.5397803541273, 'right_elbow': 5972.145220287144, 'left_wrist': 4772.986015968025, 'right_wrist': 6600.572796596214, 'left_hip': 5545.1815096363425, 'right_hip': 5744.625157495961, 'left_knee': 5918.460395703791, 'right_knee': 5987.559268422658, 'left_ankle': 5366.956565554778, 'right_ankle': 5608.652215696871}
+Average landmarks per frame: 34.24891540130152
+Average confidence per frame: 24.023134231567383
+Average confidence per landmark: {'nose': 0.43604486279420224, 'left_eye': 0.3073812096604067, 'right_eye': 0.30859389569858153, 'left_ear': 0.16933789676017943, 'right_ear': 0.24770709045565145, 'left_shoulder': 0.36826405542758345, 'right_shoulder': 0.38888838605566356, 'left_elbow': 0.269080738920197, 'right_elbow': 0.4018940255913287, 'left_wrist': 0.3211969055160178, 'right_wrist': 0.4441839028665016, 'left_hip': 0.3731616089930244, 'right_hip': 0.3865831196161481, 'left_knee': 0.3982813186880074, 'right_knee': 0.4029313101226553, 'left_ankle': 0.36116800575738744, 'right_ankle': 0.37743285435375984}
+----------------------------------------
+Input video: input_vids/sit_stand.mp4
+Output video: output_vids/mediapipe\sit_stand.mp4
+Input frames: 3688
+Processed frames: 3687
+Total landmarks: 121671
+Total visibility: 95184.3493873449
+Total visibility per landmark: {'nose': 3681.817765891552, 'left_eye_inner': 3683.1998376846313, 'left_eye': 3683.2710390090942, 'left_eye_outer': 3683.6155681610107, 'right_eye_inner': 3682.8211258649826, 'right_eye': 3682.761466026306, 'right_eye_outer': 3683.3524807095528, 'left_ear': 3682.633611559868, 'right_ear': 3682.5859229564667, 'mouth_left': 3681.435236930847, 'mouth_right': 3681.5456342697144, 'left_shoulder': 3682.9888601899147, 'right_shoulder': 3685.138954937458, 'left_elbow': 1362.1451346026734, 'right_elbow': 2627.6530732810497, 'left_wrist': 1331.609379734844, 'right_wrist': 2321.285144649446, 'left_pinky': 1314.8616653624922, 'right_pinky': 2216.2042795941234, 'left_index': 1309.6144015844911, 'right_index': 2166.324297480285, 'left_thumb': 1245.6510239355266, 'right_thumb': 2055.9851074814796, 'left_hip': 3684.44936811924, 'right_hip': 3684.441297531128, 'left_knee': 1839.5043370425701, 'right_knee': 3181.2213756144047, 'left_ankle': 2406.443902179599, 'right_ankle': 3080.0405380651355, 'left_heel': 2595.9319391548634, 'right_heel': 3051.8579421788454, 'left_foot_index': 2720.606139436364, 'right_foot_index': 3111.3515361249447}
+Average landmarks per frame: 33.0
+Average visibility per frame: 25.816205421031977
+Average visibility per landmark: 0.7823092551827873
+Average visibility per landmark: {'nose': 0.9983236892330672, 'left_eye_inner': 0.9986984375500627, 'left_eye': 0.9987177437660234, 'left_eye_outer': 0.9988111627334628, 'right_eye_inner': 0.9985957499633901, 'right_eye': 0.9985795732175451, 'right_eye_outer': 0.9987398266566032, 'left_ear': 0.9985449055205715, 'right_ear': 0.9985319747712762, 'mouth_left': 0.9982199666298393, 'mouth_right': 0.9982499008323521, 'left_shoulder': 0.9986412310710181, 'right_shoulder': 0.9992242285622175, 'left_elbow': 0.3693452100332628, 'right_elbow': 0.7124872758354256, 'left_wrist': 0.3610654500365629, 'right_wrist': 0.6294157116728433, 'left_pinky': 0.3565243127338645, 'right_pinky': 0.6009230693042634, 'left_index': 0.3551015188678121, 'right_index': 0.5873981283840253, 'left_thumb': 0.33775786983067424, 'right_thumb': 0.5574796929179717, 'left_hip': 0.9990372473208351, 'right_hip': 0.9990350589834945, 'left_knee': 0.49878100245188994, 'right_knee': 0.8625871408932767, 'left_ankle': 0.652506481068221, 'right_ankle': 0.8351519897139739, 'left_heel': 0.7038861006385204, 'right_heel': 0.8275102880094484, 'left_foot_index': 0.7376914694784068, 'right_foot_index': 0.8436419566499308}
+----------------------------------------
+Input video: input_vids/corrected_sit_stand.mp4
+Output video: output_vids/mediapipe\corrected_sit_stand.mp4
+Input frames: 3688
+Processed frames: 3687
+Total landmarks: 121671
+Total visibility: 96059.97421702277
+Total visibility per landmark: {'nose': 3682.3224133849144, 'left_eye_inner': 3683.769646346569, 'left_eye': 3683.785981833935, 'left_eye_outer': 3684.2574951052666, 'right_eye_inner': 3683.338693022728, 'right_eye': 3683.1097241044044, 'right_eye_outer': 3683.6368927955627, 'left_ear': 3683.313026368618, 'right_ear': 3682.908168911934, 'mouth_left': 3681.928568482399, 'mouth_right': 3682.0257445573807, 'left_shoulder': 3683.2973712086678, 'right_shoulder': 3685.4934909939766, 'left_elbow': 1401.6895796684548, 'right_elbow': 2704.2560400255024, 'left_wrist': 1387.3853857927024, 'right_wrist': 2426.8664099425077, 'left_pinky': 1378.0952805019915, 'right_pinky': 2314.02146660164, 'left_index': 1373.819117994979, 'right_index': 2263.628811325878, 'left_thumb': 1319.2731508556753, 'right_thumb': 2153.337652862072, 'left_hip': 3684.155003488064, 'right_hip': 3684.1401792168617, 'left_knee': 1884.9510304257274, 'right_knee': 3214.5875319242477, 'left_ankle': 2393.0842389315367, 'right_ankle': 3100.720031350851, 'left_heel': 2584.6487183868885, 'right_heel': 3086.962933897972, 'left_foot_index': 2700.6874462366104, 'right_foot_index': 3120.4769904762506}
+Average landmarks per frame: 33.0
+Average visibility per frame: 26.053695203966033
+Average visibility per landmark: 0.789505915271698
+Average visibility per landmark: {'nose': 0.9984605242366904, 'left_eye_inner': 0.998852940983343, 'left_eye': 0.998857370345427, 'left_eye_outer': 0.9989852210155278, 'right_eye_inner': 0.998736088129807, 'right_eye': 0.9986740032821053, 'right_eye_outer': 0.998816944901183, 'left_ear': 0.9987291286248964, 'right_ear': 0.9986193516572489, 'mouth_left': 0.9983537333195225, 'mouth_right': 0.9983800825806347, 'left_shoulder': 0.9987248837333698, 'right_shoulder': 0.9993203608985837, 'left_elbow': 0.3800676734458934, 'right_elbow': 0.7332581453431406, 'left_wrist': 0.37618909593077615, 'right_wrist': 0.658044037403066, 'left_pinky': 0.3736700869040107, 'right_pinky': 0.6274461677336334, 'left_index': 0.37251060683161036, 'right_index': 0.613782215652353, 'left_thumb': 0.35772048558993363, 'right_thumb': 0.5838768039213861, 'left_hip': 0.998957430446872, 'right_hip': 0.998953410850559, 'left_knee': 0.5111038585753057, 'right_knee': 0.8716343633200238, 'left_ankle': 0.6488840127254709, 'right_ankle': 0.8407592275897101, 'left_heel': 0.7008266589986141, 'right_heel': 0.8370289950916411, 'left_foot_index': 0.7322905222984302, 'right_foot_index': 0.8461163206280506}
+----------------------------------------
+Input video: input_vids/corrected_sit_stand.mp4
+Output video: output_vids/yolo/object\corrected_sit_stand.mp4
+Input frames: 3688
+Processed frames: 3688
+Total persons: 7483
+Total chairs: 3700
+Total confidence: 9482.090173453093
+Total confidence per object: {'person': 6295.689941972494, 'chair': 3186.4002314805984}
+Average persons per frame: 2.0290130151843817
+Average chairs per frame: 1.0032537960954446
+Average confidence per frame: 2.5710656652530077
+Average confidence per object: {'person': 0.8413323455796464, 'chair': 0.8611892517515131}
+----------------------------------------
+Input video: input_vids/sit_stand.mp4
+Output video: output_vids/yolo/object\sit_stand.mp4
+Input frames: 3688
+Processed frames: 3688
+Total persons: 7463
+Total chairs: 3709
+Total confidence: 9629.365075796843
+Total confidence per object: {'person': 6413.446797221899, 'chair': 3215.9182785749435}
+Average persons per frame: 2.023590021691974
+Average chairs per frame: 1.005694143167028
+Average confidence per frame: 2.6109992071032653
+Average confidence per object: {'person': 0.8593657774650809, 'chair': 0.8670580422148675}
+----------------------------------------
+Input video: input_vids/sit_stand_wellen.mp4
+Output video: output_vids/mediapipe\sit_stand_wellen.mp4
+Input frames: 1829
+Processed frames: 1561
+Total landmarks: 51513
+Total visibility: 41478.13949216902
+Total visibility per landmark: {'nose': 1557.4540274739265, 'left_eye_inner': 1557.8797915577888, 'left_eye': 1558.0355825424194, 'left_eye_outer': 1558.6667495965958, 'right_eye_inner': 1556.9237368702888, 'right_eye': 1556.67968416214, 'right_eye_outer': 1557.6547319293022, 'left_ear': 1557.362487256527, 'right_ear': 1555.2512338757515, 'mouth_left': 1558.0296033620834, 'mouth_right': 1555.5088838934898, 'left_shoulder': 1560.4515281319618, 'right_shoulder': 1558.2502115368843, 'left_elbow': 1541.5885204672813, 'right_elbow': 435.248915925622, 'left_wrist': 1517.4332467913628, 'right_wrist': 490.61532141268253, 'left_pinky': 1493.00185161829, 'right_pinky': 472.5246871188283, 'left_index': 1491.5818932056427, 'right_index': 481.7093551903963, 'left_thumb': 1455.3133741617203, 'right_thumb': 496.1768286153674, 'left_hip': 1558.9097617268562, 'right_hip': 1557.3089064359665, 'left_knee': 1419.3506526648998, 'right_knee': 665.1278880089521, 'left_ankle': 1330.7244477570057, 'right_ankle': 642.1377507820725, 'left_heel': 1341.58709987998, 'right_heel': 741.6460048407316, 'left_foot_index': 1319.2452527061105, 'right_foot_index': 778.7594806700945}
+Average landmarks per frame: 33.0
+Average visibility per frame: 26.57151793220309
+Average visibility per landmark: 0.8051975130970633
+Average visibility per landmark: {'nose': 0.8515330932060834, 'left_eye_inner': 0.8517658783804204, 'left_eye': 0.8518510566114923, 'left_eye_outer': 0.8521961452141038, 'right_eye_inner': 0.8512431584856691, 'right_eye': 0.8511097234347402, 'right_eye_outer': 0.8516428277360865, 'left_ear': 0.8514830438800038, 'right_ear': 0.8503287227314115, 'mouth_left': 0.8518477875134409, 'mouth_right': 0.8504695920686112, 'left_shoulder': 0.8531719672673383, 'right_shoulder': 0.8519684043394665, 'left_elbow': 0.8428586771280926, 'right_elbow': 0.23797097644921925, 'left_wrist': 0.8296518571849988, 'right_wrist': 0.2682423845886728, 'left_pinky': 0.8162940686814051, 'right_pinky': 0.2583513871617432, 'left_index': 0.8155177108833476, 'right_index': 0.26337307555516476, 'left_thumb': 0.7956880121168509, 'right_thumb': 0.2712831211675054, 'left_hip': 0.8523290113323435, 'right_hip': 0.8514537487348095, 'left_knee': 0.7760255071978676, 'right_knee': 0.36365658174354953, 'left_ankle': 0.7275694082870452, 'right_ankle': 0.3510867964910183, 'left_heel': 0.7335085291853363, 'right_heel': 0.40549262156409605, 'left_foot_index': 0.7212931944811977, 'right_foot_index': 0.4257842977966618}
+----------------------------------------
+Input video: input_vids\corrected_sit_stand_wellen.mp4
+Output video: output_vids\mediapipe\corrected_sit_stand_wellen.mp4
+Input frames: 1829
+Processed frames: 1557
+Total landmarks: 51381
+Total visibility: 41333.90259872377
+Total visibility per landmark: {'nose': 1554.1568400859833, 'left_eye_inner': 1554.4541009664536, 'left_eye': 1554.5703253746033, 'left_eye_outer': 1555.0841526389122, 'right_eye_inner': 1553.7570110559464, 'right_eye': 1553.5491060614586, 'right_eye_outer': 1554.3515711426735, 'left_ear': 1554.0383487939835, 'right_ear': 1552.6355007886887, 'mouth_left': 1554.5284062027931, 'mouth_right': 1552.4571320414543, 'left_shoulder': 1556.4285014867783, 'right_shoulder': 1554.1544455885887, 'left_elbow': 1539.409782230854, 'right_elbow': 415.6196130812168, 'left_wrist': 1516.3271960020065, 'right_wrist': 452.5921188816428, 'left_pinky': 1492.6427873373032, 'right_pinky': 435.8843165785074, 'left_index': 1491.082400560379, 'right_index': 444.18530640006065, 'left_thumb': 1456.934364438057, 'right_thumb': 460.40630181878805, 'left_hip': 1554.6879764199257, 'right_hip': 1553.188269019127, 'left_knee': 1425.6275554001331, 'right_knee': 660.8768780007958, 'left_ankle': 1337.4130591899157, 'right_ankle': 662.0906517803669, 'left_heel': 1348.9187754541636, 'right_heel': 757.021079197526, 'left_foot_index': 1326.8092383891344, 'right_foot_index': 798.0194863155484}
+Average landmarks per frame: 33.0
+Average visibility per frame: 26.547143608685786
+Average visibility per landmark: 0.8044588972329026
+Average visibility per landmark: {'nose': 0.8497303663674047, 'left_eye_inner': 0.8498928928192747, 'left_eye': 0.849956438149045, 'left_eye_outer': 0.8502373715904386, 'right_eye_inner': 0.8495117611022124, 'right_eye': 0.8493980897000867, 'right_eye_outer': 0.8498368349604557, 'left_ear': 0.8496655816260161, 'right_ear': 0.8488985788893869, 'mouth_left': 0.849933518973643, 'mouth_right': 0.8488010563375912, 'left_shoulder': 0.8509723900966529, 'right_shoulder': 0.8497290571834821, 'left_elbow': 0.841667458846831, 'right_elbow': 0.22723871682953353, 'left_wrist': 0.8290471273931146, 'right_wrist': 0.2474533181419589, 'left_pinky': 0.8160977514145998, 'right_pinky': 0.23831837975861533, 'left_index': 0.8152446148498519, 'right_index': 0.24285691984694405, 'left_thumb': 0.7965742834543778, 'right_thumb': 0.2517256980966583, 'left_hip': 0.8500207634882043, 'right_hip': 0.8492008031815893, 'left_knee': 0.7794573840350646, 'right_knee': 0.36133235538589165, 'left_ankle': 0.7312263855603695, 'right_ankle': 0.36199598238401687, 'left_heel': 0.7375170997562404, 'right_heel': 0.4138988951326003, 'left_foot_index': 0.725428779873775, 'right_foot_index': 0.4363146453338154}
+-------------------------------------
+Input video: input_vids\corrected_sit_stand_wellen.mp4
+Output video: output_vids\yolo\pose\corrected_sit_stand_wellen.mp4
+Input frames: 1829
+Processed frames: 1829
+Total persons: 3130
+Total landmarks: 26605
+Total confidence: 22649.009765625
+Total confidence per landmark: {'nose': 1501.305851140758, 'left_eye': 1507.23465560982, 'right_eye': 676.5875862718676, 'left_ear': 1510.4292142614722, 'right_ear': 97.72654069913551, 'left_shoulder': 1558.3029341697693, 'right_shoulder': 1524.5644984394312, 'left_elbow': 1556.5972012281418, 'right_elbow': 1381.4493022859097, 'left_wrist': 1557.228471338749, 'right_wrist': 1403.0279027149081, 'left_hip': 1550.1132912635803, 'right_hip': 1542.4353225827217, 'left_knee': 1489.282025694847, 'right_knee': 1461.6917173862457, 'left_ankle': 1182.6788199264556, 'right_ankle': 1148.3262116201222}
+Average landmarks per frame: 14.546200109349371
+Average confidence per frame: 12.383275032043457
+Average confidence per landmark category: {'nose': 0.4796504316743636, 'left_eye': 0.4815446184056933, 'right_eye': 0.21616216813797687, 'left_ear': 0.48256524417299435, 'right_ear': 0.031222536964580036, 'left_shoulder': 0.4978603623545589, 'right_shoulder': 0.4870813094055691, 'left_elbow': 0.49731539975339994, 'right_elbow': 0.4413576045641884, 'left_wrist': 0.49751708349480794, 'right_wrist': 0.4482517261069994, 'left_hip': 0.4952438630235081, 'right_hip': 0.4927908378858536, 'left_knee': 0.47580895389611727, 'right_knee': 0.4669941589093437, 'left_ankle': 0.37785265812346824, 'right_ankle': 0.3668773839041924}
+Average confidence per landmark: 0.8513064980506897
+----------------------------------------
+Input video: input_vids\sit_stand_wellen.mp4
+Output video: output_vids\yolo\pose\sit_stand_wellen.mp4
+Input frames: 1829
+Processed frames: 1829
+Total persons: 3132
+Total landmarks: 26622
+Total confidence: 22692.837890625
+Total confidence per landmark: {'nose': 1503.3560446798801, 'left_eye': 1508.4788713157177, 'right_eye': 679.9377081505954, 'left_ear': 1511.5160368084908, 'right_ear': 96.04860116518103, 'left_shoulder': 1559.4576758146286, 'right_shoulder': 1527.3882941007614, 'left_elbow': 1557.5483571887016, 'right_elbow': 1389.5471754521132, 'left_wrist': 1558.2427839636803, 'right_wrist': 1410.7717153728008, 'left_hip': 1551.2612322568893, 'right_hip': 1543.4952278137207, 'left_knee': 1490.826554954052, 'right_knee': 1463.8380622267723, 'left_ankle': 1187.7455023536459, 'right_ankle': 1153.3971148906276}
+Average landmarks per frame: 14.555494805904866
+Average confidence per frame: 12.407238006591797
+Average confidence per landmark category: {'nose': 0.4799987371263985, 'left_eye': 0.4816343778147247, 'right_eye': 0.2170937765487214, 'left_ear': 0.48260409859785786, 'right_ear': 0.030666858609572484, 'left_shoulder': 0.4979111353175698, 'right_shoulder': 0.4876718691254027, 'left_elbow': 0.4973015188980529, 'right_elbow': 0.4436612948442251, 'left_wrist': 0.4975232388134356, 'right_wrist': 0.4504379678712646, 'left_hip': 0.49529413545877693, 'right_hip': 0.4928145682674715, 'left_knee': 0.47599826147958235, 'right_knee': 0.46738124592170255, 'left_ankle': 0.3792290875969495, 'right_ankle': 0.36826216950530893}
+Average confidence per landmark: 0.8524091839790344
+----------------------------------------
+Input video: .\input_vids\corrected_swimming.mp4
+Output video: output_vids\mediapose\corrected_swimming.mp4
+Input frames: 1829
+Processed frames: 1090
+Total landmarks: 35970
+Total visibility: 28657.275375764817
+Total visibility per landmark: {'nose': 1073.489056289196, 'left_eye_inner': 1071.8876802325249, 'left_eye': 1067.8025373220444, 'left_eye_outer': 1071.7482308149338, 'right_eye_inner': 1071.6419309973717, 'right_eye': 1067.420812010765, 'right_eye_outer': 1072.5352973341942, 'left_ear': 1065.6060656905174, 'right_ear': 1064.6866632699966, 'mouth_left': 1058.2871551513672, 'mouth_right': 1054.4059439897537, 'left_shoulder': 1077.5690725445747, 'right_shoulder': 1080.8239915966988, 'left_elbow': 553.9991592727602, 'right_elbow': 640.8936494849622, 'left_wrist': 596.8060798086226, 'right_wrist': 635.2070814296603, 'left_pinky': 586.8011022880673, 'right_pinky': 629.8786667697132, 'left_index': 582.3514283448458, 'right_index': 622.5180434547365, 'left_thumb': 573.2951527498662, 'right_thumb': 609.7044673375785, 'left_hip': 1086.9779899716377, 'right_hip': 1087.2267050743103, 'left_knee': 724.9667567759752, 'right_knee': 835.3336038440466, 'left_ankle': 781.3457510471344, 'right_ankle': 869.697076484561, 'left_heel': 811.8349886536598, 'right_heel': 864.788512006402, 'left_foot_index': 807.1658059060574, 'right_foot_index': 858.5789178162813}
+Average landmarks per frame: 33.0
+Average visibility per frame: 26.29107832638974
+Average visibility per landmark: 0.7966993432239315
+Average visibility per landmark: {'nose': 0.5869267666972094, 'left_eye_inner': 0.5860512193726216, 'left_eye': 0.5838176803291659, 'left_eye_outer': 0.5859749758419539, 'right_eye_inner': 0.5859168567508867, 'right_eye': 0.5836089732152898, 'right_eye_outer': 0.5864053019869843, 'left_ear': 0.5826167663698838, 'right_ear': 0.5821140859868762, 'mouth_left': 0.5786151750417535, 'mouth_right': 0.5764931350408714, 'left_shoulder': 0.5891575027581054, 'right_shoulder': 0.5909371195170579, 'left_elbow': 0.30289729867291426, 'right_elbow': 0.350406588018022, 'left_wrist': 0.326301847899739, 'right_wrist': 0.3472974748111866, 'left_pinky': 0.32083165789396795, 'right_pinky': 0.3443841808473008, 'left_index': 0.31839881265437164, 'right_index': 0.34035978319012383, 'left_thumb': 0.31344732244388535, 'right_thumb': 0.3333540007313169, 'left_hip': 0.5943017987816499, 'right_hip': 0.594437782982127, 'left_knee': 0.39637329512081754, 'right_knee': 0.45671602178460724, 'left_ankle': 0.427198332994606, 'right_ankle': 0.4755041424191148, 'left_heel': 0.44386822780407864, 'right_heel': 0.472820400222199, 'left_foot_index': 0.44131536681577765, 'right_foot_index': 0.46942532412043814}
+----------------------------------------
+Input video: .\input_vids\swimming.mp4
+Output video: output_vids\mediapose\swimming.mp4
+Input frames: 2097
+Processed frames: 1260
+Total landmarks: 41580
+Total visibility: 33459.360695795156
+Total visibility per landmark: {'nose': 1233.6212784051895, 'left_eye_inner': 1233.6246945858002, 'left_eye': 1229.4799374341965, 'left_eye_outer': 1234.0176919102669, 'right_eye_inner': 1231.9397662878036, 'right_eye': 1227.2144286632538, 'right_eye_outer': 1233.958781838417, 'left_ear': 1229.170259475708, 'right_ear': 1225.9905389547348, 'mouth_left': 1215.0211566388607, 'mouth_right': 1209.7255820035934, 'left_shoulder': 1245.9631857275963, 'right_shoulder': 1249.5096811056137, 'left_elbow': 658.095794532448, 'right_elbow': 763.1472269049846, 'left_wrist': 706.2365136481822, 'right_wrist': 761.4872491494752, 'left_pinky': 690.8570547252893, 'right_pinky': 749.7374018789269, 'left_index': 685.3404142856598, 'right_index': 740.5252831098624, 'left_thumb': 675.3277337700129, 'right_thumb': 724.4893877524883, 'left_hip': 1257.3151547908783, 'right_hip': 1257.5954706668854, 'left_knee': 879.9209156632423, 'right_knee': 999.2322610765696, 'left_ankle': 931.2828747034073, 'right_ankle': 1032.7503978908062, 'left_heel': 956.1214977800846, 'right_heel': 1015.2105392664671, 'left_foot_index': 957.9898734986782, 'right_foot_index': 1017.4606676697731}
+Average landmarks per frame: 33.0
+Average visibility per frame: 26.555048171265998
+Average visibility per landmark: 0.804698429432303
+Average visibility per landmark: {'nose': 0.5882791027206435, 'left_eye_inner': 0.5882807318005723, 'left_eye': 0.5863042143224589, 'left_eye_outer': 0.5884681411112384, 'right_eye_inner': 0.587477237142491, 'right_eye': 0.5852238572547706, 'right_eye_outer': 0.5884400485638612, 'left_ear': 0.5861565376612818, 'right_ear': 0.5846402188625345, 'mouth_left': 0.5794092306336961, 'mouth_right': 0.5768839208410078, 'left_shoulder': 0.5941646093121584, 'right_shoulder': 0.5958558326683899, 'left_elbow': 0.3138272744551493, 'right_elbow': 0.363923331857408, 'left_wrist': 0.33678422205445024, 'right_wrist': 0.36313173540747506, 'left_pinky': 0.3294501930020455, 'right_pinky': 0.35752856551212536, 'left_index': 0.32681946317866467, 'right_index': 0.3531355665759954, 'left_thumb': 0.32204469898426935, 'right_thumb': 0.3454885015510197, 'left_hip': 0.599578042341859, 'right_hip': 0.5997117170562162, 'left_knee': 0.419609401842271, 'right_knee': 0.4765056085248305, 'left_ankle': 0.4441024676697221, 'right_ankle': 0.4924894601291398, 'left_heel': 0.4559473046161586, 'right_heel': 0.4841251975519633, 'left_foot_index': 0.45683828016150607, 'right_foot_index': 0.48519822015725944}
+----------------------------------------
+Input video: input_vids\dance.mp4
+Output video: output_vids\yolo\pose\dance.mp4
+Input frames: 1299
+Processed frames: 1299
+Total persons: 2598
+Total landmarks: 22083
+Total confidence: 19465.904296875
+Total confidence per landmark: {'nose': 983.4567341953516, 'left_eye': 873.8104408336803, 'right_eye': 820.817071928177, 'left_ear': 897.0192372202873, 'right_ear': 761.7978234880138, 'left_shoulder': 1290.3742933869362, 'right_shoulder': 1270.457766532898, 'left_elbow': 1277.0662203133106, 'right_elbow': 1212.7596088051796, 'left_wrist': 1254.2384712994099, 'right_wrist': 1199.217806726694, 'left_hip': 1295.8102858662605, 'right_hip': 1292.3287019133568, 'left_knee': 1285.0677127987146, 'right_knee': 1276.4788396954536, 'left_ankle': 1242.7728381603956, 'right_ankle': 1232.4261332452297}
+Average landmarks per frame: 17.0
+Average confidence per frame: 14.985300064086914
+Average confidence per landmark category: {'nose': 0.3785437775963632, 'left_eye': 0.3363396615987992, 'right_eye': 0.3159419060539557, 'left_ear': 0.34527299354129615, 'right_ear': 0.29322472035720315, 'left_shoulder': 0.49667986658465596, 'right_shoulder': 0.48901376694876747, 'left_elbow': 0.49155743661020423, 'right_elbow': 0.4668050842206234, 'left_wrist': 0.4827707741722132, 'right_wrist': 0.46159268927124486, 'left_hip': 0.4987722424427485, 'right_hip': 0.4974321408442482, 'left_knee': 0.4946373028478501, 'right_knee': 0.49133134707292286, 'left_ankle': 0.47835752046204605, 'right_ankle': 0.4743749550597497}
+Average confidence per landmark: 0.8814882040023804
+----------------------------------------
+Input video: input_vids\corrected_dance.mp4
+Output video: output_vids\yolo\pose\corrected_dance.mp4
+Input frames: 1298
+Processed frames: 1298
+Total persons: 2596
+Total landmarks: 22066
+Total confidence: 19461.765625
+Total confidence per landmark: {'nose': 980.1408521048725, 'left_eye': 870.252424408216, 'right_eye': 814.9188431394286, 'left_ear': 898.5082992408425, 'right_ear': 756.0591600090265, 'left_shoulder': 1289.506189763546, 'right_shoulder': 1270.610622048378, 'left_elbow': 1277.2811677753925, 'right_elbow': 1215.6827877089381, 'left_wrist': 1255.958946377039, 'right_wrist': 1203.1002021171153, 'left_hip': 1295.1801354289055, 'right_hip': 1292.1765849590302, 'left_knee': 1285.5971309244633, 'right_knee': 1277.9599137604237, 'left_ankle': 1244.2515459805727, 'right_ankle': 1234.5842123031616}
+Average landmarks per frame: 17.0
+Average confidence per frame: 14.993656158447266
+Average confidence per landmark category: {'nose': 0.3775581094394732, 'left_eye': 0.3352282066287427, 'right_eye': 0.3139132677732776, 'left_ear': 0.3461125960095695, 'right_ear': 0.2912400462284386, 'left_shoulder': 0.49672811624173574, 'right_shoulder': 0.4894493921603921, 'left_elbow': 0.49201893982102946, 'right_elbow': 0.46829075027308864, 'left_wrist': 0.4838054492977808, 'right_wrist': 0.46344383748733253, 'left_hip': 0.49891376557353834, 'right_hip': 0.49775677386711487, 'left_knee': 0.4952223154562647, 'right_knee': 0.492280398212798, 'left_ankle': 0.47929566486154573, 'right_ankle': 0.4755717304711717}
+Average confidence per landmark: 0.881979763507843
+----------------------------------------
+Input video: input_vids\corrected_dance.mp4
+Output video: output_vids\mediapose\corrected_dance.mp4
+Input frames: 1298
+Processed frames: 1282
+Total landmarks: 42306
+Total visibility: 38868.055833257735
+Total visibility per landmark: {'nose': 1280.1976293325424, 'left_eye_inner': 1279.724546611309, 'left_eye': 1279.585620045662, 'left_eye_outer': 1279.6703843474388, 'right_eye_inner': 1279.743233025074, 'right_eye': 1279.5320424437523, 'right_eye_outer': 1279.6988861560822, 'left_ear': 1279.486054778099, 'right_ear': 1279.335341989994, 'mouth_left': 1279.5907514095306, 'mouth_right': 1279.377036333084, 'left_shoulder': 1281.1749651432037, 'right_shoulder': 1281.1740134358406, 'left_elbow': 1194.8012041300535, 'right_elbow': 1059.4606835991144, 'left_wrist': 1138.744911313057, 'right_wrist': 1022.6533323898911, 'left_pinky': 1088.309183523059, 'right_pinky': 966.6228343620896, 'left_index': 1089.1294190436602, 'right_index': 966.8430701568723, 'left_thumb': 1054.779465019703, 'right_thumb': 940.4848792999983, 'left_hip': 1280.6868842840195, 'right_hip': 1280.2204584479332, 'left_knee': 1207.4783514738083, 'right_knee': 1124.5122846066952, 'left_ankle': 1189.2861725389957, 'right_ankle': 1138.0639748573303, 'left_heel': 1115.34256452322, 'right_heel': 1078.0351797640324, 'left_foot_index': 1163.9327421486378, 'right_foot_index': 1130.3777327239513}
+Average landmarks per frame: 33.0
+Average visibility per frame: 30.318296281792303
+Average visibility per landmark: 0.9187362509634032
+Average visibility per landmark: {'nose': 0.9862847683609726, 'left_eye_inner': 0.9859202978515478, 'left_eye': 0.9858132665991232, 'left_eye_outer': 0.9858785703755307, 'right_eye_inner': 0.9859346941641556, 'right_eye': 0.9857719895560495, 'right_eye_outer': 0.9859005286256411, 'left_ear': 0.9857365599214939, 'right_ear': 0.9856204483744176, 'mouth_left': 0.985817219884076, 'mouth_right': 0.9856525703644716, 'left_shoulder': 0.9870377235309736, 'right_shoulder': 0.9870369903203703, 'left_elbow': 0.9204939939368671, 'right_elbow': 0.8162254881349109, 'left_wrist': 0.8773073276679946, 'right_wrist': 0.7878685149382828, 'left_pinky': 0.8384508347635277, 'right_pinky': 0.7447017213883588, 'left_index': 0.8390827573525887, 'right_index': 0.7448713945738615, 'left_thumb': 0.8126190023264275, 'right_thumb': 0.7245646219568553, 'left_hip': 0.9866616982157315, 'right_hip': 0.9863023562772983, 'left_knee': 0.930260671397387, 'right_knee': 0.8663422839805047, 'left_ankle': 0.916245125222647, 'right_ankle': 0.8767827233107321, 'left_heel': 0.8592777846866102, 'right_heel': 0.8305355776302252, 'left_foot_index': 0.8967124361699829, 'right_foot_index': 0.8708611192018115}
+----------------------------------------
+Input video: input_vids\dance.mp4
+Output video: output_vids\mediapose\dance.mp4
+Input frames: 1299
+Processed frames: 1284
+Total landmarks: 42372
+Total visibility: 38862.427766144276
+Total visibility per landmark: {'nose': 1281.3822416067123, 'left_eye_inner': 1280.871485054493, 'left_eye': 1280.6746575832367, 'left_eye_outer': 1280.7884357571602, 'right_eye_inner': 1280.8936268091202, 'right_eye': 1280.5903002619743, 'right_eye_outer': 1280.9483680129051, 'left_ear': 1280.6785666942596, 'right_ear': 1280.5657462477684, 'mouth_left': 1280.5982958078384, 'mouth_right': 1280.7808731794357, 'left_shoulder': 1283.190734922886, 'right_shoulder': 1283.1959244012833, 'left_elbow': 1194.3689762055874, 'right_elbow': 1054.6111111342907, 'left_wrist': 1138.545170366764, 'right_wrist': 1018.2243843898177, 'left_pinky': 1088.4716642200947, 'right_pinky': 963.4340145513415, 'left_index': 1090.0214755386114, 'right_index': 964.4142943322659, 'left_thumb': 1055.9713596105576, 'right_thumb': 939.0190240517259, 'left_hip': 1282.5489180088043, 'right_hip': 1282.141330897808, 'left_knee': 1203.8986015319824, 'right_knee': 1123.0657132342458, 'left_ankle': 1189.9130691885948, 'right_ankle': 1138.3010814636946, 'left_heel': 1111.3306404650211, 'right_heel': 1073.0151568949223, 'left_foot_index': 1164.820963382721, 'right_foot_index': 1131.1515603363514}
+Average landmarks per frame: 33.0
+Average visibility per frame: 30.266688291389624
+Average visibility per landmark: 0.9171723724663522
+Average visibility per landmark: {'nose': 0.9864374454247208, 'left_eye_inner': 0.9860442533136974, 'left_eye': 0.9858927310109598, 'left_eye_outer': 0.9859803200593997, 'right_eye_inner': 0.9860612985443573, 'right_eye': 0.985827790809834, 'right_eye_outer': 0.9861034395788338, 'left_ear': 0.985895740334303, 'right_ear': 0.9858088885664114, 'mouth_left': 0.9858339459644637, 'mouth_right': 0.9859744982135764, 'left_shoulder': 0.9878296650676566, 'right_shoulder': 0.9878336600471772, 'left_elbow': 0.9194526375716608, 'right_elbow': 0.8118638268932183, 'left_wrist': 0.8764781911984327, 'right_wrist': 0.7838524899074809, 'left_pinky': 0.8379304574442608, 'right_pinky': 0.7416736062750897, 'left_index': 0.8391235377510481, 'right_index': 0.7424282481387728, 'left_thumb': 0.812910977375333, 'right_thumb': 0.722878386490936, 'left_hip': 0.9873355796834521, 'right_hip': 0.9870218097750639, 'left_knee': 0.9267887617644206, 'right_knee': 0.864561749987872, 'left_ankle': 0.9160223781282485, 'right_ankle': 0.8762902859612737, 'left_heel': 0.8555278217590617, 'right_heel': 0.8260316835218801, 'left_foot_index': 0.8967058994478221, 'right_foot_index': 0.8707864205822566}
+----------------------------------------
+Input video: input_vids\dance-jazz.mp4
+Output video: output_vids\mediapose\dance-jazz.mp4
+Input frames: 504
+Processed frames: 499
+Total landmarks: 16467
+Total visibility: 14882.634499043226
+Total visibility per landmark: {'nose': 497.09344267845154, 'left_eye_inner': 496.8145166039467, 'left_eye': 496.8751611113548, 'left_eye_outer': 496.8096897006035, 'right_eye_inner': 496.7335669994354, 'right_eye': 496.54716670513153, 'right_eye_outer': 496.47234547138214, 'left_ear': 496.63260501623154, 'right_ear': 496.10352551937103, 'mouth_left': 495.9040882587433, 'mouth_right': 495.4737254977226, 'left_shoulder': 495.73589861392975, 'right_shoulder': 495.5913779735565, 'left_elbow': 401.7580531835556, 'right_elbow': 402.63521960377693, 'left_wrist': 381.05345852673054, 'right_wrist': 392.9688840955496, 'left_pinky': 368.2959554120898, 'right_pinky': 382.1471761018038, 'left_index': 368.8146825283766, 'right_index': 381.61559142172337, 'left_thumb': 362.8313924744725, 'right_thumb': 376.0301781594753, 'left_hip': 483.5447824150324, 'right_hip': 484.40735921263695, 'left_knee': 457.0674605667591, 'right_knee': 463.8809650838375, 'left_ankle': 457.11945152282715, 'right_ankle': 461.6335736513138, 'left_heel': 447.7954131066799, 'right_heel': 447.49236208200455, 'left_foot_index': 453.59174451231956, 'right_foot_index': 455.1636852324009}
+Average landmarks per frame: 33.0
+Average visibility per frame: 29.82491883575797
+Average visibility per landmark: 0.903785419265393
+Average visibility per landmark: {'nose': 0.986296513250896, 'left_eye_inner': 0.9857430884998942, 'left_eye': 0.9858634149034818, 'left_eye_outer': 0.9857335113107212, 'right_eye_inner': 0.985582474205229, 'right_eye': 0.9852126323514514, 'right_eye_outer': 0.9850641775225836, 'left_ear': 0.9853821528099832, 'right_ear': 0.984332391903514, 'mouth_left': 0.983936683053062, 'mouth_right': 0.9830827886859576, 'left_shoulder': 0.9836029734403368, 'right_shoulder': 0.983316226138009, 'left_elbow': 0.7971389944118167, 'right_elbow': 0.7988794039757479, 'left_wrist': 0.7560584494577987, 'right_wrist': 0.7797001668562492, 'left_pinky': 0.7307459432779561, 'right_pinky': 0.7582285240115154, 'left_index': 0.731775163746779, 'right_index': 0.7571737925034194, 'left_thumb': 0.7199035564969692, 'right_thumb': 0.7460916233322923, 'left_hip': 0.959414250823477, 'right_hip': 0.961125712723486, 'left_knee': 0.906879882076903, 'right_knee': 0.9203987402457093, 'left_ankle': 0.9069830387357681, 'right_ankle': 0.9159396302605433, 'left_heel': 0.8884829625132538, 'right_heel': 0.887881670797628, 'left_foot_index': 0.8999836200641261, 'right_foot_index': 0.9031025500642875}
+----------------------------------------
+Input video: input_vids\corrected_dance-jazz.mp4
+Output video: output_vids\mediapose\corrected_dance-jazz.mp4
+Input frames: 504
+Processed frames: 501
+Total landmarks: 16533
+Total visibility: 14806.454793643206
+Total visibility per landmark: {'nose': 498.0789976119995, 'left_eye_inner': 498.11675864458084, 'left_eye': 498.0928944349289, 'left_eye_outer': 498.0431721806526, 'right_eye_inner': 497.83999675512314, 'right_eye': 497.7153461575508, 'right_eye_outer': 497.52954894304276, 'left_ear': 497.87495505809784, 'right_ear': 497.5205932855606, 'mouth_left': 497.3462926745415, 'mouth_right': 496.88242983818054, 'left_shoulder': 497.1270785331726, 'right_shoulder': 496.910974919796, 'left_elbow': 397.0927209109068, 'right_elbow': 399.20102721452713, 'left_wrist': 371.5252812728286, 'right_wrist': 386.14701195061207, 'left_pinky': 357.4508763886988, 'right_pinky': 375.06797255575657, 'left_index': 358.0296218469739, 'right_index': 374.68869546055794, 'left_thumb': 352.05232717096806, 'right_thumb': 369.2931716218591, 'left_hip': 484.6617121398449, 'right_hip': 485.4242055863142, 'left_knee': 455.81841683387756, 'right_knee': 462.5996384322643, 'left_ankle': 455.2084273993969, 'right_ankle': 458.95863749086857, 'left_heel': 446.40896701812744, 'right_heel': 444.22469222545624, 'left_foot_index': 451.51176047325134, 'right_foot_index': 452.01059061288834}
+Average landmarks per frame: 33.0
+Average visibility per frame: 29.553801983319772
+Average visibility per landmark: 0.8955697570702962
+Average visibility per landmark: {'nose': 0.9882519793888879, 'left_eye_inner': 0.988326902072581, 'left_eye': 0.9882795524502558, 'left_eye_outer': 0.9881808971838345, 'right_eye_inner': 0.98777777133953, 'right_eye': 0.9875304487252993, 'right_eye_outer': 0.9871618034584182, 'left_ear': 0.9878471330517814, 'right_ear': 0.9871440342967472, 'mouth_left': 0.9867981997510743, 'mouth_right': 0.9858778369805169, 'left_shoulder': 0.9863632510578821, 'right_shoulder': 0.9859344740472142, 'left_elbow': 0.7878823827597357, 'right_elbow': 0.7920655301875539, 'left_wrist': 0.7371533358587868, 'right_wrist': 0.7661647062512145, 'left_pinky': 0.7092279293426563, 'right_pinky': 0.7441824852296758, 'left_index': 0.7103762338233609, 'right_index': 0.7434299513106308, 'left_thumb': 0.6985165221646191, 'right_thumb': 0.732724546868768, 'left_hip': 0.961630381229851, 'right_hip': 0.9631432650522107, 'left_knee': 0.904401620702138, 'right_knee': 0.9178564254608419, 'left_ankle': 0.9031913242051526, 'right_ankle': 0.9106322172437868, 'left_heel': 0.8857320774169195, 'right_heel': 0.8813981988600322, 'left_foot_index': 0.8958566676056574, 'right_foot_index': 0.896846409946207}
+----------------------------------------
+Input video: input_vids\dance-jazz.mp4
+Output video: output_vids\yolo\pose\dance-jazz.mp4
+Input frames: 504
+Processed frames: 504
+Total persons: 984
+Total landmarks: 8364
+Total confidence: 7415.880859375
+Total confidence per landmark: {'nose': 421.71955470182, 'left_eye': 384.11455339798704, 'right_eye': 356.0518088983372, 'left_ear': 315.5197694133967, 'right_ear': 310.75114175351337, 'left_shoulder': 482.68288357555866, 'right_shoulder': 485.9516810439527, 'left_elbow': 457.05888898670673, 'right_elbow': 464.50864163041115, 'left_wrist': 445.68094616383314, 'right_wrist': 454.6231585294008, 'left_hip': 480.0752670825459, 'right_hip': 482.0247643208131, 'left_knee': 473.24288662022445, 'right_knee': 475.0152727877721, 'left_ankle': 463.1406637589098, 'right_ankle': 463.7202665391378}
+Average landmarks per frame: 16.595238095238095
+Average confidence per frame: 14.714049339294434
+Average confidence per landmark category: {'nose': 0.4285767832335569, 'left_eye': 0.39036031849388925, 'right_eye': 0.3618412692056272, 'left_ear': 0.3206501721680861, 'right_ear': 0.3158040058470664, 'left_shoulder': 0.490531385747519, 'right_shoulder': 0.4938533343942609, 'left_elbow': 0.46449074084014913, 'right_elbow': 0.47206162767318205, 'left_wrist': 0.4529277908169036, 'right_wrist': 0.4620154050095537, 'left_hip': 0.4878813689863271, 'right_hip': 0.48986256536668, 'left_knee': 0.48093789290673217, 'right_knee': 0.48273909836155704, 'left_ankle': 0.4706714062590547, 'right_ankle': 0.47126043347473356}
+Average confidence per landmark: 0.8866428732872009
+----------------------------------------
+Input video: input_vids\corrected_dance-jazz.mp4
+Output video: output_vids\yolo\pose\corrected_dance-jazz.mp4
+Input frames: 504
+Processed frames: 504
+Total persons: 982
+Total landmarks: 8347
+Total confidence: 7367.70068359375
+Total confidence per landmark: {'nose': 421.9732241202146, 'left_eye': 385.6009984384291, 'right_eye': 357.30602230411023, 'left_ear': 310.8903757473454, 'right_ear': 310.6117079607211, 'left_shoulder': 479.7651970591396, 'right_shoulder': 483.09130407497287, 'left_elbow': 455.07767971791327, 'right_elbow': 461.9907794967294, 'left_wrist': 443.1280844807625, 'right_wrist': 452.45330991223454, 'left_hip': 475.52239506621845, 'right_hip': 477.0551989497617, 'left_knee': 468.16476189228706, 'right_knee': 469.67896183859557, 'left_ankle': 457.4610954471282, 'right_ankle': 457.92828804132296}
+Average landmarks per frame: 16.561507936507937
+Average confidence per frame: 14.618453979492188
+Average confidence per landmark category: {'nose': 0.42970796753586005, 'left_eye': 0.392669041179663, 'right_eye': 0.3638554198616194, 'left_ear': 0.31658897733945557, 'right_ear': 0.316305201589329, 'left_shoulder': 0.48855926380767783, 'right_shoulder': 0.4919463381618868, 'left_elbow': 0.4634192257819891, 'right_elbow': 0.4704590422573619, 'left_wrist': 0.45125059519425914, 'right_wrist': 0.4607467514381207, 'left_hip': 0.4842386915134607, 'right_hip': 0.4857995915985353, 'left_knee': 0.47674619337300106, 'right_knee': 0.4782881485118081, 'left_ankle': 0.46584632937589426, 'right_ankle': 0.4663220855817953}
+Average confidence per landmark: 0.8826764822006226
+----------------------------------------
+Input video: input_vids\dance-jazz.mp4
+Output video: output_vids\yolo\object\dance-jazz.mp4
+Input frames: 504
+Processed frames: 504
+Total objects: 561
+Total confidence: 474.07733911275864
+Total confidence per object: {'person': 445.770249158144, 'sports ball': 3.311954975128174, 'frisbee': 9.705025911331177, 'tennis racket': 9.06954774260521, 'baseball glove': 0.4592577815055847, 'skis': 0.2674866318702698, 'skateboard': 0.5752406120300293, 'bird': 3.28040087223053, 'elephant': 0.5255978107452393, 'boat': 0.8451884984970093, 'surfboard': 0.26738911867141724}
+Average confidence per frame: 0.9406296410967433
+Average confidence per object: 0.8450576454772881
+Class-wise averages:
+Average no. of class instances per frame: {'person': 0.9801587301587301, 'sports ball': 0.017857142857142856, 'frisbee': 0.04563492063492063, 'tennis racket': 0.047619047619047616, 'baseball glove': 0.001984126984126984, 'skis': 0.001984126984126984, 'skateboard': 0.003968253968253968, 'bird': 0.007936507936507936, 'elephant': 0.001984126984126984, 'boat': 0.001984126984126984, 'surfboard': 0.001984126984126984}
+Average confidence for each class: {'person': 0.9023689254213442, 'sports ball': 0.3679949972364638, 'frisbee': 0.4219576483187468, 'tennis racket': 0.37789782260855037, 'baseball glove': 0.4592577815055847, 'skis': 0.2674866318702698, 'skateboard': 0.28762030601501465, 'bird': 0.8201002180576324, 'elephant': 0.5255978107452393, 'boat': 0.8451884984970093, 'surfboard': 0.26738911867141724}
+----------------------------------------
+Input video: input_vids\corrected_dance-jazz.mp4
+Output video: output_vids\yolo\object\corrected_dance-jazz.mp4
+Input frames: 504
+Processed frames: 504
+Total objects: 572
+Total confidence: 475.2942870259285
+Total confidence per object: {'person': 443.67623469233513, 'sports ball': 6.022108376026154, 'frisbee': 9.642860561609268, 'tennis racket': 5.019351065158844, 'skateboard': 2.93779319524765, 'surfboard': 1.9322025179862976, 'bird': 3.247542440891266, 'elephant': 0.7326362729072571, 'boat': 0.8099656701087952, 'baseball bat': 0.27874812483787537, 'tv': 0.2521243095397949, 'train': 0.7427197992801666}
+Average confidence per frame: 0.9430442202895407
+Average confidence per object: 0.8309340682271478
+Class-wise averages:
+Average no. of class instances per frame: {'person': 0.9801587301587301, 'sports ball': 0.03373015873015873, 'frisbee': 0.04563492063492063, 'tennis racket': 0.02976190476190476, 'skateboard': 0.015873015873015872, 'surfboard': 0.00992063492063492, 'bird': 0.007936507936507936, 'elephant': 0.001984126984126984, 'boat': 0.001984126984126984, 'baseball bat': 0.001984126984126984, 'tv': 0.001984126984126984, 'train': 0.003968253968253968}
+Average confidence for each class: {'person': 0.8981300297415691, 'sports ball': 0.35424166917800903, 'frisbee': 0.41925480702648993, 'tennis racket': 0.33462340434392296, 'skateboard': 0.36722414940595627, 'surfboard': 0.3864405035972595, 'bird': 0.8118856102228165, 'elephant': 0.7326362729072571, 'boat': 0.8099656701087952, 'baseball bat': 0.27874812483787537, 'tv': 0.2521243095397949, 'train': 0.3713598996400833}
+----------------------------------------
+Input video: input_vids\dance.mp4
+Output video: output_vids\yolo\object\dance.mp4
+Input frames: 1299
+Processed frames: 1299
+Total objects: 1320
+Total confidence: 1225.2442391514778
+Total confidence per object: {'person': 1217.5624823570251, 'sports ball': 1.0611136853694916, 'frisbee': 1.778354823589325, 'surfboard': 0.4666122794151306, 'backpack': 0.9744314849376678, 'train': 0.36760497093200684, 'dog': 1.111951231956482, 'cell phone': 1.1162326037883759, 'banana': 0.8054557144641876}
+Average confidence per frame: 0.9432211232882816
+Average confidence per object: 0.9282153326905135
+Class-wise averages:
+Average no. of class instances per frame: {'person': 1.0015396458814472, 'sports ball': 0.0023094688221709007, 'frisbee': 0.003079291762894534, 'surfboard': 0.0007698229407236335, 'backpack': 0.0023094688221709007, 'train': 0.0007698229407236335, 'dog': 0.001539645881447267, 'cell phone': 0.0023094688221709007, 'banana': 0.001539645881447267}
+Average confidence for each class: {'person': 0.9358666274842622, 'sports ball': 0.3537045617898305, 'frisbee': 0.44458870589733124, 'surfboard': 0.4666122794151306, 'backpack': 0.3248104949792226, 'train': 0.36760497093200684, 'dog': 0.555975615978241, 'cell phone': 0.3720775345961253, 'banana': 0.4027278572320938}
+----------------------------------------
+Input video: input_vids\corrected_dance.mp4
+Output video: output_vids\yolo\object\corrected_dance.mp4
+Input frames: 1298
+Processed frames: 1298
+Total objects: 1320
+Total confidence: 1223.165617376566
+Total confidence per object: {'person': 1215.424748301506, 'frisbee': 0.6040054261684418, 'train': 2.8084727823734283, 'surfboard': 0.6774500608444214, 'dog': 0.9163771867752075, 'backpack': 0.320584237575531, 'cell phone': 1.3971008956432343, 'sports ball': 0.4219520688056946, 'umbrella': 0.5949264168739319}
+Average confidence per frame: 0.942346392431869
+Average confidence per object: 0.9266406192246711
+Class-wise averages:
+Average no. of class instances per frame: {'person': 1.0015408320493067, 'frisbee': 0.0015408320493066256, 'train': 0.006933744221879815, 'surfboard': 0.0007704160246533128, 'dog': 0.0015408320493066256, 'backpack': 0.0007704160246533128, 'cell phone': 0.0023112480739599386, 'sports ball': 0.0007704160246533128, 'umbrella': 0.0007704160246533128}
+Average confidence for each class: {'person': 0.9349421140780816, 'frisbee': 0.3020027130842209, 'train': 0.31205253137482536, 'surfboard': 0.6774500608444214, 'dog': 0.45818859338760376, 'backpack': 0.320584237575531, 'cell phone': 0.46570029854774475, 'sports ball': 0.4219520688056946, 'umbrella': 0.5949264168739319}
+----------------------------------------
+Input video: input_vids\swimming.mp4
+Output video: output_vids\yolo\object\swimming.mp4
+Input frames: 2097
+Processed frames: 2097
+Total objects: 2584
+Total confidence: 1682.415875852108
+Total confidence per object: {'person': 1510.703833848238, 'boat': 12.517180800437927, 'bird': 46.14206522703171, 'tv': 9.804568231105804, 'dog': 6.337900787591934, 'train': 1.5936577916145325, 'traffic light': 1.9453218579292297, 'airplane': 17.4805389046669, 'sports ball': 3.739592432975769, 'surfboard': 55.66822624206543, 'tennis racket': 13.149005889892578, 'umbrella': 0.2894734740257263, 'baseball bat': 1.110150307416916, 'frisbee': 0.9196049869060516, 'cake': 1.0147550702095032}
+Average confidence per frame: 0.8022965550081583
+Average confidence per object: 0.6510897352368838
+Class-wise averages:
+Average no. of class instances per frame: {'person': 1.0319504053409634, 'boat': 0.017167381974248927, 'bird': 0.04721030042918455, 'tv': 0.011444921316165951, 'dog': 0.00715307582260372, 'train': 0.001430615164520744, 'traffic light': 0.002861230329041488, 'airplane': 0.016213638531235097, 'sports ball': 0.005245588936576061, 'surfboard': 0.07057701478302336, 'tennis racket': 0.015736766809728183, 'umbrella': 0.0004768717215069146, 'baseball bat': 0.0019074868860276585, 'frisbee': 0.001430615164520744, 'cake': 0.001430615164520744}
+Average confidence for each class: {'person': 0.6981071320925314, 'boat': 0.34769946667883134, 'bird': 0.4660814669397142, 'tv': 0.40852367629607517, 'dog': 0.4225267191727956, 'train': 0.5312192638715109, 'traffic light': 0.32422030965487164, 'airplane': 0.5141334971960854, 'sports ball': 0.33996294845234265, 'surfboard': 0.3761366637977394, 'tennis racket': 0.39845472393613873, 'umbrella': 0.2894734740257263, 'baseball bat': 0.277537576854229, 'frisbee': 0.3065349956353505, 'cake': 0.3382516900698344}
+----------------------------------------
+Input video: input_vids\corrected_sit_stand_wellen.mp4
+Output video: output_vids\yolo\object\corrected_sit_stand_wellen.mp4
+Input frames: 1829
+Processed frames: 1829
+Total objects: 13101
+Total confidence: 8931.98036557436
+Total confidence per object: {'person': 1459.4959493875504, 'potted plant': 2254.9930740892887, 'couch': 1359.0666639506817, 'chair': 1366.3400956690311, 'vase': 1296.3869126141071, 'bottle': 62.912914365530014, 'book': 1113.188193321228, 'bed': 10.124874293804169, 'handbag': 4.282126873731613, 'cell phone': 0.27908703684806824, 'bowl': 4.255153208971024, 'cup': 0.321883887052536, 'remote': 0.33343687653541565}
+Average confidence per frame: 4.88353218456772
+Average confidence per object: 0.6817785180958981
+Class-wise averages:
+Average no. of class instances per frame: {'person': 0.8534718425369054, 'potted plant': 1.5418261344997266, 'couch': 0.9092400218698743, 'chair': 0.865500273373428, 'vase': 1.2099507927829416, 'bottle': 0.11427009294696555, 'book': 1.6429743028977584, 'bed': 0.01038819026790596, 'handbag': 0.007107709130672498, 'cell phone': 0.0005467468562055768, 'bowl': 0.0065609622744669215, 'cup': 0.0005467468562055768, 'remote': 0.0005467468562055768}
+Average confidence for each class: {'person': 0.9349749835922808, 'potted plant': 0.7996429340742158, 'couch': 0.8172379217983654, 'chair': 0.8631333516544732, 'vase': 0.5858052022657511, 'bottle': 0.3010187290216747, 'book': 0.37044532223668153, 'bed': 0.5328881207265352, 'handbag': 0.3293943749024318, 'cell phone': 0.27908703684806824, 'bowl': 0.3545961007475853, 'cup': 0.321883887052536, 'remote': 0.33343687653541565}
+----------------------------------------
+Input video: input_vids\sit_stand_wellen.mp4
+Output video: output_vids\yolo\object\sit_stand_wellen.mp4
+Input frames: 1829
+Processed frames: 1829
+Total objects: 13152
+Total confidence: 9233.328428477049
+Total confidence per object: {'person': 1462.9222415685654, 'potted plant': 2277.370646059513, 'chair': 1375.5525441765785, 'couch': 1397.5377549827099, 'vase': 1534.193631350994, 'book': 1168.263002306223, 'handbag': 5.275955408811569, 'bowl': 3.6387975215911865, 'cup': 0.6214382648468018, 'bed': 7.208329796791077, 'remote': 0.38641586899757385, 'cell phone': 0.35767117142677307}
+Average confidence per frame: 5.0482932905834055
+Average confidence per object: 0.7020474778343255
+Class-wise averages:
+Average no. of class instances per frame: {'person': 0.8545653362493165, 'potted plant': 1.5472936030617823, 'chair': 0.8589393110989612, 'couch': 0.9475123018042646, 'vase': 1.3466375068343357, 'book': 1.612356478950246, 'handbag': 0.008201202843083653, 'bowl': 0.005467468562055768, 'cup': 0.0010934937124111536, 'bed': 0.007654455986878075, 'remote': 0.0005467468562055768, 'cell phone': 0.0005467468562055768}
+Average confidence for each class: {'person': 0.9359707239722107, 'potted plant': 0.8047246099150223, 'chair': 0.875590416407752, 'couch': 0.8064268638099884, 'vase': 0.6228963180475007, 'book': 0.3961556467637243, 'handbag': 0.35173036058743795, 'bowl': 0.36387975215911866, 'cup': 0.3107191324234009, 'bed': 0.5148806997707912, 'remote': 0.38641586899757385, 'cell phone': 0.35767117142677307}
+----------------------------------------
+Input video: .\input_vids\corrected_swimming.mp4
+Output video: output_vids\mediapose\corrected_swimming.mp4
+Input frames: 2097
+Processed frames: 1232
+Total landmarks: 40656
+Total visibility: 32525.52742978558
+Total visibility per landmark: {'nose': 1211.9730134010315, 'left_eye_inner': 1209.9468584656715, 'left_eye': 1204.8282271623611, 'left_eye_outer': 1209.7717334628105, 'right_eye_inner': 1209.9442860484123, 'right_eye': 1205.0060964226723, 'right_eye_outer': 1210.9716601967812, 'left_ear': 1202.4068170785904, 'right_ear': 1201.623135626316, 'mouth_left': 1194.7728226184845, 'mouth_right': 1189.950114607811, 'left_shoulder': 1217.3206982016563, 'right_shoulder': 1221.844841182232, 'left_elbow': 609.9019238166511, 'right_elbow': 754.9595656059682, 'left_wrist': 664.9002936817706, 'right_wrist': 742.8832000419497, 'left_pinky': 653.7518569156528, 'right_pinky': 733.6032267026603, 'left_index': 649.2096437513828, 'right_index': 724.7827497683465, 'left_thumb': 639.090364869684, 'right_thumb': 708.5266846828163, 'left_hip': 1228.6767228841782, 'right_hip': 1229.0309985876083, 'left_knee': 823.5552698224783, 'right_knee': 961.6740627735853, 'left_ankle': 892.5438959300518, 'right_ankle': 999.1276656836271, 'left_heel': 924.683696269989, 'right_heel': 990.7667692452669, 'left_foot_index': 919.8492093682289, 'right_foot_index': 983.6493249088526}
+Average landmarks per frame: 33.0
+Average visibility per frame: 26.40059044625453
+Average visibility per landmark: 0.8000178923107433
+Average visibility per landmark: {'nose': 0.5779556573204728, 'left_eye_inner': 0.576989441328408, 'left_eye': 0.5745485108070392, 'left_eye_outer': 0.5769059291668147, 'right_eye_inner': 0.5769882146153611, 'right_eye': 0.5746333316274069, 'right_eye_outer': 0.5774781402941255, 'left_ear': 0.5733938088119173, 'right_ear': 0.5730200932886581, 'mouth_left': 0.5697533727317523, 'mouth_right': 0.5674535596603771, 'left_shoulder': 0.5805058169774231, 'right_shoulder': 0.5826632528289136, 'left_elbow': 0.2908449803608255, 'right_elbow': 0.36001886771863056, 'left_wrist': 0.317072147678479, 'right_wrist': 0.35425999048257023, 'left_pinky': 0.3117557734457095, 'right_pinky': 0.349834633620725, 'left_index': 0.3095897204346127, 'right_index': 0.34562839760054676, 'left_thumb': 0.3047641224938884, 'right_thumb': 0.33787633985828147, 'left_hip': 0.5859211840172523, 'right_hip': 0.5860901280818351, 'left_knee': 0.39273021927633683, 'right_knee': 0.45859516584338833, 'left_ankle': 0.4256289441726523, 'right_ankle': 0.47645572993973634, 'left_heel': 0.4409555060896466, 'right_heel': 0.4724686548618345, 'left_foot_index': 0.43865007599820166, 'right_foot_index': 0.46907454692839895}
+----------------------------------------
+Input video: .\input_vids\swimming.mp4
+Output video: output_vids\mediapose\swimming.mp4
+Input frames: 2097
+Processed frames: 1260
+Total landmarks: 41580
+Total visibility: 33459.360695795156
+Total visibility per landmark: {'nose': 1233.6212784051895, 'left_eye_inner': 1233.6246945858002, 'left_eye': 1229.4799374341965, 'left_eye_outer': 1234.0176919102669, 'right_eye_inner': 1231.9397662878036, 'right_eye': 1227.2144286632538, 'right_eye_outer': 1233.958781838417, 'left_ear': 1229.170259475708, 'right_ear': 1225.9905389547348, 'mouth_left': 1215.0211566388607, 'mouth_right': 1209.7255820035934, 'left_shoulder': 1245.9631857275963, 'right_shoulder': 1249.5096811056137, 'left_elbow': 658.095794532448, 'right_elbow': 763.1472269049846, 'left_wrist': 706.2365136481822, 'right_wrist': 761.4872491494752, 'left_pinky': 690.8570547252893, 'right_pinky': 749.7374018789269, 'left_index': 685.3404142856598, 'right_index': 740.5252831098624, 'left_thumb': 675.3277337700129, 'right_thumb': 724.4893877524883, 'left_hip': 1257.3151547908783, 'right_hip': 1257.5954706668854, 'left_knee': 879.9209156632423, 'right_knee': 999.2322610765696, 'left_ankle': 931.2828747034073, 'right_ankle': 1032.7503978908062, 'left_heel': 956.1214977800846, 'right_heel': 1015.2105392664671, 'left_foot_index': 957.9898734986782, 'right_foot_index': 1017.4606676697731}
+Average landmarks per frame: 33.0
+Average visibility per frame: 26.555048171265998
+Average visibility per landmark: 0.804698429432303
+Average visibility per landmark: {'nose': 0.5882791027206435, 'left_eye_inner': 0.5882807318005723, 'left_eye': 0.5863042143224589, 'left_eye_outer': 0.5884681411112384, 'right_eye_inner': 0.587477237142491, 'right_eye': 0.5852238572547706, 'right_eye_outer': 0.5884400485638612, 'left_ear': 0.5861565376612818, 'right_ear': 0.5846402188625345, 'mouth_left': 0.5794092306336961, 'mouth_right': 0.5768839208410078, 'left_shoulder': 0.5941646093121584, 'right_shoulder': 0.5958558326683899, 'left_elbow': 0.3138272744551493, 'right_elbow': 0.363923331857408, 'left_wrist': 0.33678422205445024, 'right_wrist': 0.36313173540747506, 'left_pinky': 0.3294501930020455, 'right_pinky': 0.35752856551212536, 'left_index': 0.32681946317866467, 'right_index': 0.3531355665759954, 'left_thumb': 0.32204469898426935, 'right_thumb': 0.3454885015510197, 'left_hip': 0.599578042341859, 'right_hip': 0.5997117170562162, 'left_knee': 0.419609401842271, 'right_knee': 0.4765056085248305, 'left_ankle': 0.4441024676697221, 'right_ankle': 0.4924894601291398, 'left_heel': 0.4559473046161586, 'right_heel': 0.4841251975519633, 'left_foot_index': 0.45683828016150607, 'right_foot_index': 0.48519822015725944}
+----------------------------------------
+Input video: .\input_vids\swimming.mp4
+Output video: output_vids\yolo\pose\swimming.mp4
+Input frames: 2097
+Processed frames: 2097
+Total persons: 4198
+Total landmarks: 35683
+Total confidence: 20013.39453125
+Total confidence per landmark: {'nose': 463.4373903356027, 'left_eye': 286.4512988234055, 'right_eye': 330.65381452362635, 'left_ear': 496.1842920103263, 'right_ear': 540.378423474056, 'left_shoulder': 1453.1812254800036, 'right_shoulder': 1450.66275682968, 'left_elbow': 1234.426871916803, 'right_elbow': 1261.35634532744, 'left_wrist': 1074.9006152208894, 'right_wrist': 1089.7187733026221, 'left_hip': 1831.1997159363236, 'right_hip': 1830.4633663910208, 'left_knee': 1740.2019271217287, 'right_knee': 1745.1610203988384, 'left_ankle': 1588.9364766227081, 'right_ankle': 1596.0927416993072}
+Average landmarks per frame: 17.016213638531234
+Average confidence per frame: 9.543822288513184
+Average confidence per landmark category: {'nose': 0.11039480474883341, 'left_eye': 0.0682351831404015, 'right_eye': 0.0787646056511735, 'left_ear': 0.11819540066944409, 'right_ear': 0.1287228259823859, 'left_shoulder': 0.3461603681467374, 'right_shoulder': 0.34556044707710337, 'left_elbow': 0.294051184353693, 'right_elbow': 0.3004660184200667, 'left_wrist': 0.256050646789159, 'right_wrist': 0.2595804605294479, 'left_hip': 0.43620765029450304, 'right_hip': 0.43603224544807545, 'left_knee': 0.4145311879756381, 'right_knee': 0.41571248699352986, 'left_ankle': 0.3784984460749662, 'right_ankle': 0.380203130466724}
+Average confidence per landmark: 0.5608663558959961
+----------------------------------------
+Input video: .\input_vids\corrected_swimming.mp4
+Output video: output_vids\yolo\pose\corrected_swimming.mp4
+Input frames: 2097
+Processed frames: 2097
+Total persons: 4180
+Total landmarks: 35530
+Total confidence: 19760.2265625
+Total confidence per landmark: {'nose': 470.33489148940134, 'left_eye': 295.84881509968545, 'right_eye': 337.59068165407007, 'left_ear': 497.3006530607454, 'right_ear': 531.9503731619061, 'left_shoulder': 1435.3432925303023, 'right_shoulder': 1433.5695812219478, 'left_elbow': 1216.590783172549, 'right_elbow': 1243.7106402548961, 'left_wrist': 1056.9999875184149, 'right_wrist': 1074.3817781694233, 'left_hip': 1805.399333022302, 'right_hip': 1806.414641436364, 'left_knee': 1712.0441642673686, 'right_knee': 1717.8430409093853, 'left_ankle': 1558.6535792164505, 'right_ankle': 1566.2381966526154}
+Average landmarks per frame: 16.94325226514068
+Average confidence per frame: 9.42309284210205
+Average confidence per landmark category: {'nose': 0.1125203089687563, 'left_eye': 0.07077722849274772, 'right_eye': 0.08076332096987322, 'left_ear': 0.1189714481006568, 'right_ear': 0.1272608548234225, 'left_shoulder': 0.3433835628062924, 'right_shoulder': 0.3429592299574038, 'left_elbow': 0.2910504265963036, 'right_elbow': 0.2975384306829895, 'left_wrist': 0.25287081041110404, 'right_wrist': 0.2570291335333549, 'left_hip': 0.43191371603404355, 'right_hip': 0.43215661278381917, 'left_knee': 0.4095799436046336, 'right_knee': 0.41096723466731705, 'left_ankle': 0.37288363139149533, 'right_ankle': 0.3746981331704822}
+Average confidence per landmark:    60988426208
+----------------------------------------
+Folder path: frames\pill\
+Output path: output_imgs\pill\original\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 6
+Total confidence: 4.526067793369293
+Total confidence per object: {'pill': 4.526067793369293}
+Average objects per frame: 1.0
+Average confidence per frame: 0.7543446322282156
+Average confidence per object: 0.7543446322282156
+Detections and confidence for each image: {'frames\\pill\\original_1_pill.jpg': [('pill', 0.7918578386306763)], 'frames\\pill\\original_2_pill.jpg': [('pill', 0.7334906458854675)], 'frames\\pill\\original_3_pill.jpg': [('pill', 0.6917552351951599)], 'frames\\pill\\original_4_pill.jpg': [('pill', 0.7664292454719543)], 'frames\\pill\\original_5_pill.jpg': [('pill', 0.7775526642799377)], 'frames\\pill\\original_6_pill.jpg': [('pill', 0.7649821639060974)]}
+----------------------------------------
+Folder path: corrected_frames\pill\original
+Output path: output_imgs\pill\corrected_original\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 6
+Total confidence: 4.534738600254059
+Total confidence per object: {'pill': 4.534738600254059}
+Average objects per frame: 1.0
+Average confidence per frame: 0.7557897667090098
+Average confidence per object: 0.7557897667090098
+Detections and confidence for each image: {'corrected_frames\\pill\\original\\corrected_original_1_pill.jpg': [('pill', 0.7905104160308838)], 'corrected_frames\\pill\\original\\corrected_original_2_pill.jpg': [('pill', 0.7358919382095337)], 'corrected_frames\\pill\\original\\corrected_original_3_pill.jpg': [('pill', 0.6952422261238098)], 'corrected_frames\\pill\\original\\corrected_original_4_pill.jpg': [('pill', 0.7679603695869446)], 'corrected_frames\\pill\\original\\corrected_original_5_pill.jpg': [('pill', 0.7777643799781799)], 'corrected_frames\\pill\\original\\corrected_original_6_pill.jpg': [('pill', 0.767369270324707)]}
+----------------------------------------
+Folder path: corrected_frames\pill\jitter
+Output path: output_imgs\pill\corrected_jitter\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 2
+Total confidence: 1.4906169772148132
+Total confidence per object: {'pill': 1.4906169772148132}
+Average objects per frame: 0.3333333333333333
+Average confidence per frame: 0.24843616286913553
+Average confidence per object: 0.7453084886074066
+Detections and confidence for each image: {'corrected_frames\\pill\\jitter\\corrected_jitter_2_pill.jpg': [('pill', 0.7147987484931946)], 'corrected_frames\\pill\\jitter\\corrected_jitter_5_pill.jpg': [('pill', 0.7758182287216187)]}
+----------------------------------------
+Folder path: augmented_imgs\pill\jitter
+Output path: output_imgs\pill\jitter\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 4
+Total confidence: 2.7218637466430664
+Total confidence per object: {'pill': 2.7218637466430664}
+Average objects per frame: 0.6666666666666666
+Average confidence per frame: 0.4536439577738444
+Average confidence per object: 0.6804659366607666
+Detections and confidence for each image: {'augmented_imgs\\pill\\jitter\\jitter_1_pill.jpg': [('pill', 0.6932365298271179)], 'augmented_imgs\\pill\\jitter\\jitter_2_pill.jpg': [('pill', 0.712759256362915)], 'augmented_imgs\\pill\\jitter\\jitter_3_pill.jpg': [('pill', 0.5379740595817566)], 'augmented_imgs\\pill\\jitter\\jitter_5_pill.jpg': [('pill', 0.7778939008712769)]}
+----------------------------------------
+Folder path: augmented_imgs\pill\hsv
+Output path: output_imgs\pill\hsv\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 5
+Total confidence: 3.3461813628673553
+Total confidence per object: {'pill': 3.3461813628673553}
+Average objects per frame: 0.8333333333333334
+Average confidence per frame: 0.5576968938112259
+Average confidence per object: 0.6692362725734711
+Detections and confidence for each image: {'augmented_imgs\\pill\\hsv\\hsv_1_pill.jpg': [('pill', 0.7858862280845642)], 'augmented_imgs\\pill\\hsv\\hsv_2_pill.jpg': [('pill', 0.7353863716125488)], 'augmented_imgs\\pill\\hsv\\hsv_3_pill.jpg': [('pill', 0.2829337418079376)], 'augmented_imgs\\pill\\hsv\\hsv_5_pill.jpg': [('pill', 0.7758015990257263)], 'augmented_imgs\\pill\\hsv\\hsv_6_pill.jpg': [('pill', 0.7661734223365784)]}
+----------------------------------------
+Folder path: corrected_frames\pill\hsv
+Output path: output_imgs\pill\corrected_hsv\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 5
+Total confidence: 3.327757775783539
+Total confidence per object: {'pill': 3.327757775783539}
+Average objects per frame: 0.8333333333333334
+Average confidence per frame: 0.5546262959639231
+Average confidence per object: 0.6655515551567077
+Detections and confidence for each image: {'corrected_frames\\pill\\hsv\\corrected_hsv_1_pill.jpg': [('pill', 0.7848032116889954)], 'corrected_frames\\pill\\hsv\\corrected_hsv_2_pill.jpg': [('pill', 0.7360509037971497)], 'corrected_frames\\pill\\hsv\\corrected_hsv_3_pill.jpg': [('pill', 0.2647925615310669)], 'corrected_frames\\pill\\hsv\\corrected_hsv_5_pill.jpg': [('pill', 0.777381420135498)], 'corrected_frames\\pill\\hsv\\corrected_hsv_6_pill.jpg': [('pill', 0.7647296786308289)]}
+----------------------------------------
+Folder path: .\augmented_imgs\pill\brightness\
+Output path: output_imgs\pill\brightness\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 6
+Total confidence: 4.471249997615814
+Total confidence per object: {'pill': 4.471249997615814}
+Average objects per frame: 1.0
+Average confidence per frame: 0.745208332935969
+Average confidence per object: 0.745208332935969
+Detections and confidence for each image: {'.\\augmented_imgs\\pill\\brightness\\brightness_1_pill.jpg': [('pill', 0.7982466220855713)], '.\\augmented_imgs\\pill\\brightness\\brightness_2_pill.jpg': [('pill', 0.7334988117218018)], '.\\augmented_imgs\\pill\\brightness\\brightness_3_pill.jpg': [('pill', 0.6886181235313416)], '.\\augmented_imgs\\pill\\brightness\\brightness_4_pill.jpg': [('pill', 0.7604526281356812)], '.\\augmented_imgs\\pill\\brightness\\brightness_5_pill.jpg': [('pill', 0.7778022885322571)], '.\\augmented_imgs\\pill\\brightness\\brightness_6_pill.jpg': [('pill', 0.7126315236091614)]}
+----------------------------------------
+Folder path: .\corrected_frames\pill\brightness\
+Output path: output_imgs\pill\corrected_brightness\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 6
+Total confidence: 4.469787895679474
+Total confidence per object: {'pill': 4.469787895679474}
+Average objects per frame: 1.0
+Average confidence per frame: 0.7449646492799123
+Average confidence per object: 0.7449646492799123
+Detections and confidence for each image: {'.\\corrected_frames\\pill\\brightness\\corrected_brightness_1_pill.jpg': [('pill', 0.7991681694984436)], '.\\corrected_frames\\pill\\brightness\\corrected_brightness_2_pill.jpg': [('pill', 0.7383731007575989)], '.\\corrected_frames\\pill\\brightness\\corrected_brightness_3_pill.jpg': [('pill', 0.6942537426948547)], '.\\corrected_frames\\pill\\brightness\\corrected_brightness_4_pill.jpg': [('pill', 0.7630229592323303)], '.\\corrected_frames\\pill\\brightness\\corrected_brightness_5_pill.jpg': [('pill', 0.7782014012336731)], '.\\corrected_frames\\pill\\brightness\\corrected_brightness_6_pill.jpg': [('pill', 0.6967685222625732)]}
+----------------------------------------
+Folder path: .\augmented_imgs\pill\gamma\
+Output path: output_imgs\pill\gamma\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 6
+Total confidence: 4.516119062900543
+Total confidence per object: {'pill': 4.516119062900543}
+Average objects per frame: 1.0
+Average confidence per frame: 0.7526865104834238
+Average confidence per object: 0.7526865104834238
+Detections and confidence for each image: {'.\\augmented_imgs\\pill\\gamma\\gamma_1_pill.jpg': [('pill', 0.7926903367042542)], '.\\augmented_imgs\\pill\\gamma\\gamma_2_pill.jpg': [('pill', 0.732735276222229)], '.\\augmented_imgs\\pill\\gamma\\gamma_3_pill.jpg': [('pill', 0.6796090602874756)], '.\\augmented_imgs\\pill\\gamma\\gamma_4_pill.jpg': [('pill', 0.7695497870445251)], '.\\augmented_imgs\\pill\\gamma\\gamma_5_pill.jpg': [('pill', 0.7770002484321594)], '.\\augmented_imgs\\pill\\gamma\\gamma_6_pill.jpg': [('pill', 0.7645343542098999)]}
+----------------------------------------
+Folder path: .\corrected_frames\pill\gamma\
+Output path: output_imgs\pill\corrected_gamma\yolo\object
+Input images: 6
+Processed images: 6
+Total objects: 6
+Total confidence: 4.52513313293457
+Total confidence per object: {'pill': 4.52513313293457}
+Average objects per frame: 1.0
+Average confidence per frame: 0.7541888554890951
+Average confidence per object: 0.7541888554890951
+Detections and confidence for each image: {'.\\corrected_frames\\pill\\gamma\\corrected_gamma_1_pill.jpg': [('pill', 0.7914526462554932)], '.\\corrected_frames\\pill\\gamma\\corrected_gamma_2_pill.jpg': [('pill', 0.7369914650917053)], '.\\corrected_frames\\pill\\gamma\\corrected_gamma_3_pill.jpg': [('pill', 0.6819742321968079)], '.\\corrected_frames\\pill\\gamma\\corrected_gamma_4_pill.jpg': [('pill', 0.7725507616996765)], '.\\corrected_frames\\pill\\gamma\\corrected_gamma_5_pill.jpg': [('pill', 0.776569664478302)], '.\\corrected_frames\\pill\\gamma\\corrected_gamma_6_pill.jpg': [('pill', 0.7655943632125854)]}
+----------------------------------------
+Input video: .\input_vids\corrected_swimming.mp4
+Output video: output_vids\yolo\object\corrected_swimming.mp4
+Input frames: 2097
+Processed frames: 2097
+Total objects: 2585
+Total confidence: 1661.9295253157616
+Total confidence per object: {'person': 1505.5143507122993, 'boat': 9.44124549627304, 'bird': 28.047799944877625, 'tv': 8.439216583967209, 'train': 3.476266920566559, 'tennis racket': 10.55261105298996, 'surfboard': 67.04046076536179, 'airplane': 14.870603770017624, 'traffic light': 1.7675122618675232, 'sports ball': 3.7324355244636536, 'dog': 3.9620138108730316, 'skateboard': 1.1355429589748383, 'frisbee': 0.9759916067123413, 'baseball bat': 0.8562484681606293, 'kite': 0.7951271831989288, 'cake': 1.3220982551574707}
+Average confidence per frame: 0.7925271937604967
+Average confidence per object: 0.6429127757507782
+Class-wise averages:
+Average no. of class instances per frame: {'person': 1.0491177873152122, 'boat': 0.01239866475917978, 'bird': 0.02956604673342871, 'tv': 0.010491177873152123, 'train': 0.004291845493562232, 'tennis racket': 0.01239866475917978, 'surfboard': 0.08202193609918931, 'airplane': 0.01335240820219361, 'traffic light': 0.002384358607534573, 'sports ball': 0.005245588936576061, 'dog': 0.004291845493562232, 'skateboard': 0.001430615164520744, 'frisbee': 0.001430615164520744, 'baseball bat': 0.001430615164520744, 'kite': 0.0009537434430138292, 'cake': 0.0019074868860276585}
+Average confidence for each class: {'person': 0.684324704869227, 'boat': 0.36312482677973235, 'bird': 0.45238387007867137, 'tv': 0.3836007538166913, 'train': 0.38625188006295097, 'tennis racket': 0.40586965588422924, 'surfboard': 0.3897701207288476, 'airplane': 0.5310929917863437, 'traffic light': 0.35350245237350464, 'sports ball': 0.3393123204057867, 'dog': 0.4402237567636702, 'skateboard': 0.3785143196582794, 'frisbee': 0.32533053557078045, 'baseball bat': 0.2854161560535431, 'kite': 0.3975635915994644, 'cake': 0.3305245637893677}
+----------------------------------------
+Input video: .\input_vids\swimming.mp4
+Output video: output_vids\yolo\object\swimming.mp4
+Input frames: 2097
+Processed frames: 2097
+Total objects: 2584
+Total confidence: 1682.415875852108
+Total confidence per object: {'person': 1510.703833848238, 'boat': 12.517180800437927, 'bird': 46.14206522703171, 'tv': 9.804568231105804, 'dog': 6.337900787591934, 'train': 1.5936577916145325, 'traffic light': 1.9453218579292297, 'airplane': 17.4805389046669, 'sports ball': 3.739592432975769, 'surfboard': 55.66822624206543, 'tennis racket': 13.149005889892578, 'umbrella': 0.2894734740257263, 'baseball bat': 1.110150307416916, 'frisbee': 0.9196049869060516, 'cake': 1.0147550702095032}
+Average confidence per frame: 0.8022965550081583
+Average confidence per object: 0.6510897352368838
+Class-wise Information:
+No. of class instances: {'person': 2164, 'boat': 36, 'bird': 99, 'tv': 24, 'dog': 15, 'train': 3, 'traffic light': 6, 'airplane': 34, 'sports ball': 11, 'surfboard': 148, 'tennis racket': 33, 'umbrella': 1, 'baseball bat': 4, 'frisbee': 3, 'cake': 3}
+Average confidence for each class: {'person': 0.6981071320925314, 'boat': 0.34769946667883134, 'bird': 0.4660814669397142, 'tv': 0.40852367629607517, 'dog': 0.4225267191727956, 'train': 0.5312192638715109, 'traffic light': 0.32422030965487164, 'airplane': 0.5141334971960854, 'sports ball': 0.33996294845234265, 'surfboard': 0.3761366637977394, 'tennis racket': 0.39845472393613873, 'umbrella': 0.2894734740257263, 'baseball bat': 0.277537576854229, 'frisbee': 0.3065349956353505, 'cake': 0.3382516900698344}
+----------------------------------------
+Input video: .\input_vids\corrected_swimming.mp4
+Output video: output_vids\yolo\object\corrected_swimming.mp4
+Input frames: 2097
+Processed frames: 2097
+Total objects: 2585
+Total confidence: 1661.929569999999
+Total confidence per object: {'person': 1505.514420000001, 'boat': 9.441259999999998, 'bird': 28.047790000000006, 'tv': 8.43921, 'train': 3.47626, 'tennis racket': 10.552630000000002, 'surfboard': 67.04044999999998, 'airplane': 14.870619999999999, 'traffic light': 1.7675100000000001, 'sports ball': 3.7324299999999995, 'dog': 3.96199, 'skateboard': 1.13554, 'frisbee': 0.9759899999999999, 'baseball bat': 0.8562500000000001, 'kite': 0.7951199999999999, 'cake': 1.3221}
+Average confidence per frame: 0.7925272150691459
+Average confidence per object: 0.6429127930367501
+Class-wise Information:
+No. of class instances: {'person': 2200, 'boat': 26, 'bird': 62, 'tv': 22, 'train': 9, 'tennis racket': 26, 'surfboard': 172, 'airplane': 28, 'traffic light': 5, 'sports ball': 11, 'dog': 9, 'skateboard': 3, 'frisbee': 3, 'baseball bat': 3, 'kite': 2, 'cake': 4}
+Average confidence for each class: {'person': 0.6843247363636369, 'boat': 0.3631253846153845, 'bird': 0.4523837096774195, 'tv': 0.3836004545454545, 'train': 0.3862511111111111, 'tennis racket': 0.4058703846153847, 'surfboard': 0.38977005813953475, 'airplane': 0.5310935714285714, 'traffic light': 0.35350200000000004, 'sports ball': 0.33931181818181816, 'dog': 0.4402211111111111, 'skateboard': 0.3785133333333333, 'frisbee': 0.32532999999999995, 'baseball bat': 0.2854166666666667, 'kite': 0.39755999999999997, 'cake': 0.330525}----------------------------------------
+----------------------------------------
+Input video: .\input_vids\dance-jazz.mp4
+Output video: output_vids\yolo\pose\dance-jazz.mp4
+Input frames: 504
+Processed frames: 504
+Total landmarks: 8364
+Total confidence: 7415.88086
+Total confidence per landmark: ['nose : 421.71955', 'left_eye : 384.11455', 'right_eye : 356.05181', 'left_ear : 315.51977', 'right_ear : 310.75114', 'left_shoulder : 482.68288', 'right_shoulder : 485.95168', 'left_elbow : 457.05889', 'right_elbow : 464.50864', 'left_wrist : 445.68095', 'right_wrist : 454.62316', 'left_hip : 480.07527', 'right_hip : 482.02476', 'left_knee : 473.24289', 'right_knee : 475.01527', 'left_ankle : 463.14066', 'right_ankle : 463.72027']
+Average landmarks per frame: 16.59524
+Average confidence per frame: 14.71405
+Average confidence per landmark: 0.88664
+Average confidence per landmark: ['nose : 0.83675', 'left_eye : 0.76213', 'right_eye : 0.70645', 'left_ear : 0.62603', 'right_ear : 0.61657', 'left_shoulder : 0.95770', 'right_shoulder : 0.96419', 'left_elbow : 0.90686', 'right_elbow : 0.92164', 'left_wrist : 0.88429', 'right_wrist : 0.90203', 'left_hip : 0.95253', 'right_hip : 0.95640', 'left_knee : 0.93897', 'right_knee : 0.94249', 'left_ankle : 0.91893', 'right_ankle : 0.92008']
+----------------------------------------
+Input video: .\input_vids\corrected_dance-jazz.mp4
+Output video: output_vids\yolo\pose\corrected_dance-jazz.mp4
+Input frames: 504
+Processed frames: 504
+Total landmarks: 8347
+Total confidence: 7367.70068
+Total confidence per landmark: ['nose : 421.97322', 'left_eye : 385.60100', 'right_eye : 357.30602', 'left_ear : 310.89038', 'right_ear : 310.61171', 'left_shoulder : 479.76520', 'right_shoulder : 483.09130', 'left_elbow : 455.07768', 'right_elbow : 461.99078', 'left_wrist : 443.12808', 'right_wrist : 452.45331', 'left_hip : 475.52240', 'right_hip : 477.05520', 'left_knee : 468.16476', 'right_knee : 469.67896', 'left_ankle : 457.46110', 'right_ankle : 457.92829']
+Average landmarks per frame: 16.56151
+Average confidence per frame: 14.61845
+Average confidence per landmark: 0.88268
+Average confidence per landmark: ['nose : 0.83725', 'left_eye : 0.76508', 'right_eye : 0.70894', 'left_ear : 0.61685', 'right_ear : 0.61629', 'left_shoulder : 0.95192', 'right_shoulder : 0.95851', 'left_elbow : 0.90293', 'right_elbow : 0.91665', 'left_wrist : 0.87922', 'right_wrist : 0.89772', 'left_hip : 0.94350', 'right_hip : 0.94654', 'left_knee : 0.92890', 'right_knee : 0.93190', 'left_ankle : 0.90766', 'right_ankle : 0.90859']
+----------------------------------------
+Input video: .\input_vids\corrected_dance-jazz.mp4
+Output video: output_vids\yolo\object\corrected_dance-jazz.mp4
+Input frames: 504
+Processed frames: 504
+Total objects: 572
+Total confidence: 475.29428
+Total confidence per object: ['person : 443.67624', 'sports ball : 6.02211', 'frisbee : 9.64286', 'tennis racket : 5.01935', 'skateboard : 2.93779', 'surfboard : 1.93220', 'bird : 3.24754', 'elephant : 0.73264', 'boat : 0.80997', 'baseball bat : 0.27875', 'tv : 0.25212', 'train : 0.74272']
+Average confidence per frame: 0.94304
+Average confidence per object: 0.83093
+Class-wise Information:
+No. of class instances: {'person': 494, 'sports ball': 17, 'frisbee': 23, 'tennis racket': 15, 'skateboard': 8, 'surfboard': 5, 'bird': 4, 'elephant': 1, 'boat': 1, 'baseball bat': 1, 'tv': 1, 'train': 2}
+Average confidence for each class: ['person: 0.89813', 'sports ball: 0.35424', 'frisbee: 0.41925', 'tennis racket: 0.33462', 'skateboard: 0.36722', 'surfboard: 0.38644', 'bird: 0.81189', 'elephant: 0.73264', 'boat: 0.80997', 'baseball bat: 0.27875', 'tv: 0.25212', 'train: 0.37136']
+----------------------------------------
+Input video: .\input_vids\dance-jazz.mp4
+Output video: output_vids\yolo\object\dance-jazz.mp4
+Input frames: 504
+Processed frames: 504
+Total objects: 561
+Total confidence: 474.07715
+Total confidence per object: ['person : 445.77002', 'sports ball : 3.31195', 'frisbee : 9.70502', 'tennis racket : 9.06955', 'baseball glove : 0.45926', 'skis : 0.26749', 'skateboard : 0.57524', 'bird : 3.28040', 'elephant : 0.52560', 'boat : 0.84519', 'surfboard : 0.26739']
+Average confidence per frame: 0.94063
+Average confidence per object: 0.84506
+Class-wise Information:
+No. of class instances: {'person': 494, 'sports ball': 9, 'frisbee': 23, 'tennis racket': 24, 'baseball glove': 1, 'skis': 1, 'skateboard': 2, 'bird': 4, 'elephant': 1, 'boat': 1, 'surfboard': 1}
+Average confidence for each class: ['person: 0.90237', 'sports ball: 0.36799', 'frisbee: 0.42196', 'tennis racket: 0.37790', 'baseball glove: 0.45926', 'skis: 0.26749', 'skateboard: 0.28762', 'bird: 0.82010', 'elephant: 0.52560', 'boat: 0.84519', 'surfboard: 0.26739']
