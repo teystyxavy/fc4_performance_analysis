@@ -1,3 +1,14 @@
+
+'''
+This script applies various image augmentations using the Albumentations library.
+It supports color jitter, hue-saturation-value adjustments, brightness alterations, and gamma adjustments.
+
+Usage:
+    python augment.py <aug_type> <input_dir> <output_dir>
+
+
+'''
+
 import albumentations as A
 import argparse
 import os

@@ -1,8 +1,16 @@
+'''
+    This script contains utility classes for video capture and frame extraction.
+    It includes classes for capturing video frames, and converting frames back to video.
+'''
+
 import cv2
 import os
 import re
 
 class Vid_Capture:
+    '''
+        handles video capture and frame extraction from a video file.
+    '''
     def __init__(self, video_path, output_dir):
         self.video_path = video_path
         self.output_dir = output_dir
@@ -75,8 +83,11 @@ class Vid_Capture:
             cv2.destroyAllWindows()
 
 class Frame_Capture:
+    '''
+        handles conversion of frames back to video.    
+    '''
 
-    # CRITICAL: Proper numerical sorting to prevent frame order issues
+    # Proper numerical sorting to prevent frame order issues
     def natural_sort_key(filename):
         # Extract numbers from filename for proper sorting
         numbers = re.findall(r'\d+', filename)

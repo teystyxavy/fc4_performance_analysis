@@ -1,3 +1,9 @@
+'''
+This script converts frames from a specified directory into a video file using OpenCV.
+Usage:
+    python frame_to_video.py <frame_path> <output_dir> <vid_path>
+'''
+
 from vid_utils import Vid_Capture, Frame_Capture
 import argparse
 

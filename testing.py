@@ -1,3 +1,9 @@
+'''
+    This script processes a video file or a folder of images to perform pose estimation or object detection using YOLO or MediaPipe.
+    It supports different models for pose estimation and object detection, and can display the processed frames.
+    It logs the results of the processing including total frames, processed frames, total landmarks/objects, and average confidence/visibility to log_results.txt
+'''
+
 from vid_utils import Vid_Capture
 import cv2 
 import numpy as np
@@ -5,9 +11,6 @@ import argparse
 import os
 from datetime import datetime
 import pandas as pd
-from decimal import Decimal, getcontext
-
-getcontext().prec = 10
 
 def generate_results_pose(model, video_path, output_path, total_frames, 
                           processed_count, total_landmarks, total_metric, 

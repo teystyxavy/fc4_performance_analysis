@@ -1,3 +1,9 @@
+'''
+This script extracts frames from a video file and saves them to a specified directory.
+
+Usage:
+    python frame_extractor.py <video_path> <output_dir>
+'''
 from vid_utils import Vid_Capture
 import argparse
 
